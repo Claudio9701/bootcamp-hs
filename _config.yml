@@ -1,0 +1,15 @@
+plugins:
+  - jekyll-relative-links
+  - jemoji
+relative_links:
+  enabled: true
+  collections: true
+include:
+ - README.md
+
+theme: jekyll-theme-cayman
+title: Cursos de Data y Software
+description: Bootcamp - Hackspace 🐝
+
+github:
+  is_project_page: false

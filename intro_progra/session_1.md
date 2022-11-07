@@ -1,4 +1,5 @@
 # Sesión 1: Configuración inicial
+
 **Fecha:** Lunes 07/11/2022 | 21/11/2022  
 **Duración:** 3 horas  
 **Profesor(es):** Paolo Bejarano y Claudio Ortega
@@ -9,7 +10,7 @@
 
 Si ya tienes Python instalado en tu computadora, sabes como lo instalaste y lo utilizas sin ningun problema, puedes omitir esta sección.
 
-Si aún no, te recomendamos que siguas los pasos en la parte 1 y 2 de esta [guía](https://www.wikihow.com/Start-Programming-in-Python) para evitar confusiones y conflictos con otros métodos de instalación más pesados, avanzados y/o específicos como Anaconda.
+Si aún no, te recomendamos que siguas los pasos en la parte 1 y 2 de esta [guía](https://www.wikihow.com/Start-Programming-in-Python) para evitar confusiones y conflictos con otros métodos de instalación más pesados, avanzados y/o específicos como Anaconda. Si ya lo tienes instalado o lo piensas instalar luego, no hay problema, seguir estos pasos te ayudará a comprender mejor que está pasando "por detrás".
 
 ### Comprueba que hayas instalado Python correctamente
 
@@ -109,5 +110,6 @@ Desde nuestra Terminal en Mac OS o Linux:
 
 1. Completa la instalación de Python correctamente
 1. Completa la creación de tu carpeta de proyecto
+1. Instala un editor de código. Oficialmente los profesores usaremos [VS Code](https://code.visualstudio.com/)
 1. Crea y ejecuta tu primer script que imprima "Hello World!"
-1. Instala Jupyter Notebook lo necesitarás para seguir la siguiente clase desde tu computadora ;)
+1. Instala [Jupyter Notebook](https://jupyter.org/install#jupyter-notebook) lo necesitarás para seguir la siguiente clase desde tu computadora 😉

@@ -3,7 +3,7 @@
 **Duracion:** 3 horas
 **Profesor(es):** Paolo Bejarano
 
-> Recordemos [la introducción a la programación] vista en el curso de pre-selección
+> Recordemos [la introducción a la programación](https://docs.google.com/presentation/d/e/2PACX-1vS_UtPYURotAm5zGIYEBCSnHmYunLXGLN7Jgdc-zGop3z-0u6ehjMkAm9Ugm_5fDWdNoijsSV-zra0_/pub?start=false&loop=false&delayms=3000) vista en el curso de pre-selección
 
 ## 1. Instalamos Python (bien!)
 

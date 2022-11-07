@@ -1,7 +1,7 @@
 # Sesión 1: Configuracion Inicial
-**Fecha:** Lunes 07/11/2022 | 21/11/2022 
-**Duracion:** 3 horas
-**Profesor(es):** Paolo Bejarano
+**Fecha:** Lunes 07/11/2022 | 21/11/2022  
+**Duracion:** 3 horas  
+**Profesor(es):** Paolo Bejarano  
 
 > Recordemos [la introducción a la programación](https://docs.google.com/presentation/d/e/2PACX-1vS_UtPYURotAm5zGIYEBCSnHmYunLXGLN7Jgdc-zGop3z-0u6ehjMkAm9Ugm_5fDWdNoijsSV-zra0_/pub?start=false&loop=false&delayms=3000) vista en el curso de pre-selección
 
@@ -91,8 +91,7 @@ Desde nuestro PowerShell o Command Prompt en Windows:
 
 > Posibles errores en Windows:
 > - [Añadir variable de entorno “python” / “python3”](https://geek-university.com/python/add-python-to-the-windows-path/)
-[Solución de “ejecución e Scripts está deshabilitada”]
-> - (https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar)
+> - [Solución de “ejecución e Scripts está deshabilitada”](https://www.cdmon.com/es/blog/la-ejecucion-de-scripts-esta-deshabilitada-en-este-sistema-te-contamos-como-actuar)
 
 Desde nuestro terminal en Mac OS o Linux:
 

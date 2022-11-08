@@ -272,7 +272,7 @@ $ python mate.py
 >>> Resultado: 30
 ```
 
-3. Implementa un programa de python (script) que dada una lista de numeros enteros y un numero entero te indique la posicion de dicho numero en la lista ordenada ascendentemente (de menor a mayor)
+3. Implementa un programa de python (script) que dada una lista de numeros enteros y un numero entero te indique la posicion de dicho numero en la lista
 
 ```bash
 $ python rank.py
@@ -283,8 +283,8 @@ $ python rank.py
 >>> 25
 >>> 2
 >>> q
->>> Ingresa un numero: 17
->>> Posicion: 5
+>>> Ingresa un numero: 25
+>>> Posicion: 4
 ```
 
 [<< Inicio](README.md)  |  [< Anterior sesion](session_1.md)  |  [Siguiente lab >](session_3.md)

@@ -1,9 +1,9 @@
 [< Volver al inicio](README.md)
 
-# Sesión 2: Configuracion Inicial
-**Fecha:** Martes 08/11/2022 | 22/11/2022 
-**Duracion:** 3 horas
-**Profesor(es):** Paolo Bejarano
+# Sesión 2: Introduccion a Python 1
+**Fecha:** Martes 08/11/2022 | 22/11/2022  
+**Duracion:** 3 horas  
+**Profesor(es):** Paolo Bejarano  
 
 El objetivo del presente laboratorio es repasar de sobre los conceptos básicos de Python, para que el estudiante pueda recordar el manejo de este lenguaje y así, tener el mejor desempeño en el curso.
 
@@ -244,7 +244,6 @@ dog
 monkey
 ```
 
-
 ## 5.3. While
 Sirve para ejecutar un código una cantidad indeterminada de veces. Seguirá ejecutándose hasta que la condición sea falsa.
 
@@ -260,3 +259,34 @@ Adios amigo # 0
 Adios amigo # 1
 Adios amigo # 2
 ```
+
+## Reto: Ahora te toca a ti
+
+1. Deberas replicar esta guia en un python notebook desde tu computadora personal.
+2. Implementa un programa de python (script) que permita realizar operaciones matematicas con numeros enteros indicados por el usuario (Ve la funcion `input`). Por ejemplo:
+
+```bash
+$ python mate.py
+>>> Ingresa el primer numero: 5
+>>> Ingresa el segundo numero: 6
+>>> Ingresa la operacion que deseas realizar (e.g. +, *, -, /, ^): *
+>>> Operacion a realizar:  5 * 6
+>>> Resultado: 30
+```
+
+3. Implementa un programa de python (script) que dada una lista de numeros enteros y un numero entero te indique la posicion de dicho numero en la lista ordenada ascendentemente (de menor a mayor)
+
+```bash
+$ python rank.py
+>>> Ingresa una lista de numeros (Coloca q para terminar): 
+>>> 9
+>>> 36
+>>> 3
+>>> 25
+>>> 2
+>>> q
+>>> Ingresa un numero: 17
+>>> Posicion: 5
+```
+
+[< Anterior lab](session_1.md)  |  [Siguiente lab >](session_3.md)

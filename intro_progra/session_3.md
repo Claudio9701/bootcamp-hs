@@ -1,6 +1,5 @@
-[< Volver al inicio](README.md)
+# Sesión 3: Introduccion a Python 1
 
-# Sesión 2: Introduccion a Python 1
 **Fecha:** Martes 08/11/2022 | 22/11/2022  
 **Duracion:** 3 horas  
 **Profesor(es):** Paolo Bejarano  
@@ -112,4 +111,4 @@ g.greet(loud=0) # Llamamos al método usando 0. Ingresa al else
   - La interfaz o medio de interaccion sera la linea de comandos. En otras palabras solo necesitaras usar las funciones `print` e `input`.
   - 3 alumnos seran seleccionados al azar la siguiente clase para que presenten su codigo y demo.
 
-[< Anterior lab](session_1.md)
+[<< Inicio](README.md)  |  [< Anterior sesion](session_2.md)

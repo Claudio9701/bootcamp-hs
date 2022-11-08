@@ -1,5 +1,3 @@
-[< Volver al inicio](README.md)
-
 # Sesión 2: Introduccion a Python 1
 **Fecha:** Martes 08/11/2022 | 22/11/2022  
 **Duracion:** 3 horas  
@@ -289,4 +287,4 @@ $ python rank.py
 >>> Posicion: 5
 ```
 
-[< Anterior lab](session_1.md)  |  [Siguiente lab >](session_3.md)
+[<< Inicio](README.md)  |  [< Anterior sesion](session_1.md)  |  [Siguiente lab >](session_3.md)

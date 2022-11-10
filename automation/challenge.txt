@@ -1,0 +1,12 @@
+¡Hola a tod@s! 👋🏽 Espero que tengan un excelente día 🚀. Hoy, 🗓 viernes 25/2, tenemos la evaluacion correspondiente a nuestro curso de Programación y estructuras de datos en Python 🐍. Por ello, les dejaré tanto las indicaciones como el puntaje por sección de la evaluación desde ahora para que puedan ir avanzando desde ahora 🏃‍♀️. Siéntanse libres de utilizar todo lo visto en el curso y referencias adicionales que puedan encontrar en internet 🔎. A la hora de la evaluación la idea es que puedan ir con un avance o el programa terminado, para que Paolo y yo podamos apoyarlos a resolver sus dudas ❓, consultas 🙋🏽‍♂️, errores 🐞, entre otros.
+Enunciado:
+Deben crear una base de datos de contactos ficticia con la librería faker y guárdalos en un archivo de valores separados por comas (.csv). Luego deben leer dichos datos utilizando la librería pandas con el objetivo de iterar sobre cada fila para acceder a los datos de contacto que utilizarán para generar un mensaje personalizado utilizando interpolación de texto (f-strings) y finalmente, enviar dicho mensaje con la ayuda de la librería smtplib en la cual deben utilizar sus credenciales de Sendgrid  generadas en la Sesión 3. Se recomienda el uso de los conceptos aprendidos en clase como funciones, loops y condicionales (if-else)
+Secciones y puntaje:
+1. Generación de dataset de 15 contactos con faker (5 pts)
+2. Lectura de contactos con pandas (5pts)
+3. Envío de mensaje personalizado a cada contacto de la lista
+3.1 Template de mensaje usando interpolacion de strings. (2.5pts)
+3.2 Funcion de envio de mensaje usando smptlib (7.5pts)
+Crack challenge:
+Si bien pueden utilizar plataformas en línea como Google Colab, Replit u otro para ejecutar su programa. Quienes quieran superar el Crack Challenge deberán organizar su código en 1 o más scripts de Python y ser capaz de correrlo localmente de manera exitosa. Esto demostrará que han logrado configurar su ambiente de desarrollo de Python en su propia computadora 👩‍💻 🔝 🥳
+PD: Quienes enviaron el reto correctamente desarrollado tienen +1 pto en su nota, si esta es menor que 20 🤗😉

@@ -287,4 +287,6 @@ $ python rank.py
 >>> Posicion: 4
 ```
 
+> [Hands-on Python!](nbs/summary_session_1_2.ipynb): Notebook con el resumen de las sesiones 1 y 2.
+
 [<< Inicio](README.md)  |  [< Anterior sesion](session_1.md)  |  [Siguiente lab >](session_3.md)

@@ -149,6 +149,8 @@ print(os.listdir())
 - [math](https://docs.python.org/3/library/math.html): Funciones para operaciones matematicas mas complejas.
 - [pickle](https://docs.python.org/3/library/pickle.html): Libreria para guardar elementos arbitrarios de Python. 
 
+> [Notebook interactivo con el codigo realizado hasta aqui.](nbs/session_4.ipynb)
+
 ### Manos a la obra
 
 Ejercicio 1: Crear/Leer un archivo txt y csv/tsv

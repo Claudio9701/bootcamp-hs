@@ -1,6 +1,6 @@
-# Sesión 3: Introduccion a Python 1
+# Sesión 4: Manejo de Librerias
 
-**Fecha:** Jueves    10/11/2022 | 24/11/2022 (3 horas)  
+**Fecha:** Jueves 10/11/2022 | 24/11/2022
 **Duracion:** 3 horas  
 **Profesor(es):** Paolo Bejarano  
 
@@ -14,7 +14,7 @@ Estas librerias no son necesarias de instalar por su cuenta, vienen por defecto 
 
 ### Tiempo, horas y fechas: un dolor de cabeza
 
-#### [time](https://docs.python.org/3/library/time.html)
+#### Libreria [time](https://docs.python.org/3/library/time.html)
 
 ```python
 # Dependencies
@@ -54,7 +54,7 @@ print("Time elapsed:", end - start)
 
 Puedes explorar mas funcionalidades y detalles de este modulo en la documentacion oficial de Python. Asimismo, esta no es la mejor forma para sistematizar el calculo de tiempos de ejecucion e identificar posibles cuello de botella. Para ello, podemos utilizar una herramienta de [*profiling*](https://docs.python.org/3/library/profile.html).
 
-#### [datetime](https://docs.python.org/3/library/datetime.html)
+#### Libreria [datetime](https://docs.python.org/3/library/datetime.html)
 
 Este es una de mis librerias favoritas, parece magia! Con datetime tenemos diversas funciones con las que podemos generar y transformar fechas como un tipo de dato especifico, con reglas e incluso operaciones aritmeticas propias:
 
@@ -101,7 +101,7 @@ print("Intervalo de tiempo:", interval)
 
 ### Interactuamos con nuestro sistema de archivos
 
-#### [os](https://docs.python.org/3/library/os.html)
+#### Libreria [os](https://docs.python.org/3/library/os.html)
 
 Esta es la libreria tradicional para interactuar con el sistema de archivos, actualmente Python recomienda utilizar la nueva [`pathlib`](https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module). Sin embargo, es bueno revisar las funciones principales de esta libreria `os` porque ha sido muy utilizada y probablemente te encuentres con ella en mucho codigo disponible online.
 
@@ -142,14 +142,14 @@ os.rmdir(new_folder_name)
 print(os.listdir())
 ```
 
-#### [pathlib](https://docs.python.org/3/library/pathlib.html)
+> [Notebook interactivo con el codigo realizado hasta aqui.](nbs/session_4.ipynb)
+
+---
 
 ### Otras librerias utiles
 
 - [math](https://docs.python.org/3/library/math.html): Funciones para operaciones matematicas mas complejas.
 - [pickle](https://docs.python.org/3/library/pickle.html): Libreria para guardar elementos arbitrarios de Python. 
-
-> [Notebook interactivo con el codigo realizado hasta aqui.](nbs/session_4.ipynb)
 
 ### Manos a la obra
 
@@ -172,8 +172,10 @@ Ejercicio 1: Crear/Leer un archivo txt y csv/tsv
 
 ### Notebooks de ejemplo
 
-1. [Introduccion a numpy & pandas](nbs/intro_numpy_pandas.ipynb)
+1. [Introduccion a numpy & pandas](nbs/intro_numpy_pandas.ipynb)*
 1. [Aprendiendo mas pandas](nbs/aprendiendo_mas_pandas.ipynb)
+
+> \*Descarga el archivo de datos de calidad de aire aqui: [airquality.csv](nbs/data/airquality.csv)
 
 ## Retos: Ahora te toca a ti
 

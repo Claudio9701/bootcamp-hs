@@ -8,7 +8,7 @@ Curso teórico-práctico perteneciente al área de herramientas digitales. Duran
 - Manejo de datos basico
 - Template basico con Python formatted strings (f-strings)
 
-Sesión 2: Lunes 14:30 14/11/2022 (3 horas)
+[Sesión 2](nbs/session_2.ipynb): Lunes 14:30 14/11/2022 (3 horas)
 
 - Introduccion de las librerias estandar `smtp` y `mail` 
 - Envio de correos masivos de prueba (ver los correos mediante terminal)

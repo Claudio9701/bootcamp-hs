@@ -170,12 +170,10 @@ Ejercicio 1: Crear/Leer un archivo txt y csv/tsv
 
 > Si no tienes puedes seguir la clase desde un servicio de notebooks en linea como [Google Colab](https://colab.research.google.com/)
 
-### Notebooks de ejemplo
+### Notebook de ejemplo
 
-1. [Introduccion a numpy & pandas](nbs/intro_numpy_pandas.ipynb)*
-1. [Aprendiendo mas pandas](nbs/aprendiendo_mas_pandas.ipynb)
-
-> \*Descarga el archivo de datos de calidad de aire aqui: [airquality.csv](nbs/data/airquality.csv)
+- [Introduccion a numpy & pandas](nbs/intro_numpy_pandas.ipynb)*
+- **Descarga el archivo de datos de calidad de aire aqui: [airquality.csv](nbs/data/airquality.csv)**
 
 ## Retos: Ahora te toca a ti
 

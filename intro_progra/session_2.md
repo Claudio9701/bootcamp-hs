@@ -1,4 +1,5 @@
 # Sesión 2: Introduccion a Python 1
+
 **Fecha:** Martes 08/11/2022 | 22/11/2022  
 **Duracion:** 3 horas  
 **Profesor(es):** Paolo Bejarano  

@@ -13,7 +13,7 @@ Curso teórico-práctico perteneciente al área de herramientas digitales. Duran
 - Introduccion de las librerias estandar `smtp` y `mail` 
 - Envio de correos masivos de prueba (ver los correos mediante terminal)
 
-Sesión 3: Martes      16/11/2022 (3 horas)
+[Sesión 3](session_3.md): Martes      15/11/2022 (3 horas)
 
 - Configuracion de servidor de mail personal (gmail)
 - Envio de correos usando tus credenciales de gmail

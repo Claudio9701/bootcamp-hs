@@ -1,10 +1,13 @@
 # Sesión 3: Enviando correos desde Python con Gmail y SendGrid
 
-**Fecha:** Martes 15/11/2022 (3 horas)
+**Fecha:** Martes 15/11/2022 (3 horas)  
 **Duracion:** 3 horas  
 **Profesor(es):** Paolo Bejarano  
 
-El objetivo del presente laboratorio es validar la comprension de las liberias smtp e email para enviar correos personalizando la configuracion para enviar correos reales desde 1) nuestro correo personal gmail y 2) una plataforma de correo transaccional y de marketing SendGrid.
+El objetivo del presente laboratorio es validar la comprension de las liberias smtp e email para enviar correos. Vamos a modificar la configuracion de la clase pasada para poder enviar correos reales desde:
+
+1. Nuestro correo personal Gmail
+2. Una plataforma de correo transaccional y de marketing SendGrid
 
 ## Configuracion de servidor de mail personal (gmail)
 

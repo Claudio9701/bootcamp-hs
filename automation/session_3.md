@@ -1,6 +1,6 @@
 # Sesión 3: Enviando correos desde Python con Gmail y SendGrid
 
-**Fecha:** Martes 16/11/2022 (3 horas)
+**Fecha:** Martes 15/11/2022 (3 horas)
 **Duracion:** 3 horas  
 **Profesor(es):** Paolo Bejarano  
 

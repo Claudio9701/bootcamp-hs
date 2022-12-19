@@ -1,8 +1,14 @@
 # Introducción Desarrollo Web con Python
 
-Curso teórico-práctico perteneciente al área de herramientas digitales. El objetivo de este curso es enseñar a los alumnos buenas prácticas para la gestión de proyectos personales o profesionales de programación. Los estudiantes deben crear, gestionar repositorios de código en grupo, así como dar seguimiento al estado del proyecto mediante un roadmap. Los conocimientos de este curso se reforzarán en la práctica en todos los cursos de programación y data science del bootcamp.
+## Información
+
+**Tipo:** Teórico-práctico  
+**Área:** Herramientas digitales  
+**Objetivo:** El objetivo de este curso es enseñar a los alumnos buenas prácticas para la gestión de proyectos personales o profesionales de programación. Los estudiantes deben crear, gestionar repositorios de código en grupo, así como dar seguimiento al estado del proyecto mediante un roadmap. Los conocimientos de este curso se reforzarán en la práctica en todos los cursos de programación y data science del bootcamp.
+
 
 Sesión 1: Lunes     09/01/2023 | Viernes    06/01/2023 (3 horas)
+- [Lab 1: Creando tu primera aplicación Django I](lab1.md)
 
 Sesión 2: Martes    10/01/2023 | Lunes      09/01/2023 (3 horas)
 

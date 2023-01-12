@@ -8,3 +8,4 @@ Cursos de Data &amp; Software para los Bootcamps organizados por Hackspace 🐝
 1. [Análisis de datos (data_analysis)](data_analysis)
 
 - [Recursos adicionales](recursos_adicionales.md)
+- Test de integracion con Slack
